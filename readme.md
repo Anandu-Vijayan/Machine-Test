@@ -1,7 +1,7 @@
 # Project Name
 
 ## Description
-[Project Name] is a full-stack web application built with Node.js and React.js.
+Machine-Test 
 
 ## Features
 - Feature 1
@@ -13,3 +13,9 @@ To run the client-side:
 ```bash
 npm install
 npm run dev
+
+## Installation
+To run the Server-side:
+```bash
+npm install
+npm start
